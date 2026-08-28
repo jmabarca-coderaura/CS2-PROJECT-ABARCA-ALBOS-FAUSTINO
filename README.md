@@ -70,6 +70,6 @@ Status: Reserved
 
 ## Contributors
 
-* **Member 1:** [Name] — Reservation system and conflict-prevention logic
-* **Member 2:** [Name] — Equipment checkout and check-in tracking
-* **Member 3:** [Name] — Role-based access, testing, and documentation
+* **Member 1:** [FAUSTINO] — Reservation system and conflict-prevention logic
+* **Member 2:** [ALBOS] — Equipment checkout and check-in tracking
+* **Member 3:** [ABARCA] — Role-based access, testing, and documentation
