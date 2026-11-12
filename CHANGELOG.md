@@ -1,3 +1,9 @@
+v0.1.1 - [10/23/2026]
+Added reservation receipts for equipment and laboratory space bookings.
+Added borrowing and return receipts for equipment.
+Updated project objectives, planned features, and outputs based on teacher feedback.
+Added sample receipt outputs.
+
 v0.1.0 - [08/28/2026]
 Added
 Created the initial project structure.
