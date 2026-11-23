@@ -1,3 +1,6 @@
+v0.1.2 - [11/23/2026]
+Uploaded the 3rd draft project proposal based on the revisions.
+
 v0.1.1 - [10/23/2026]
 Added reservation receipts for equipment and laboratory space bookings.
 Added borrowing and return receipts for equipment.
